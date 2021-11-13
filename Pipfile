@@ -12,6 +12,7 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
+torch = {file = "https://download.pytorch.org/whl/cu102/torch-1.9.0%2Bcu102-cp38-cp38-win_amd64.whl"}
 
 [dev-packages]
 
